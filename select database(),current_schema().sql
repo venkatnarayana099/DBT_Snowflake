@@ -1,0 +1,1 @@
+select database(),current_schema()
