@@ -1,5 +1,5 @@
 models:
-  - name:  
+  - name:
     description: one unique customer per row
     columns:
       - name: customer_id
